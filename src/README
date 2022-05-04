@@ -1,0 +1,14 @@
+In order to run this file 
+Open the terminal in the VS Code 
+Install Node modules by running "yarn add node-modules" or "npm install node-modules" command.Note:this might take a while.
+Run the "npm run" or "yarn start" command 
+Run "npm start" and application will open in browser.
+It will open in the browser. Search for Vegetables/fruits by name.
+
+
+NB:if you dont have nodejs package in your laptop please install it
+https://nodejs.org/en/download/
+
+
+In the browser you can search for items.
+
